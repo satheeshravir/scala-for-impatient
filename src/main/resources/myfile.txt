@@ -1,0 +1,3 @@
+I am a stupid programmer
+I write mediocre code
+Testing makes my code look better even though I am stupid
